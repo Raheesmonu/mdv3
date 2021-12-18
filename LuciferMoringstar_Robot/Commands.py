@@ -83,7 +83,9 @@ async def start(bot, message):
                 if f_caption is None:
                     f_caption = f"{files.file_name}"
                 buttons = [
-                    [
+                    [ 
+                        InlineKeyboardButton('🏅Main Channel🏅 ', url="https://t.me/+2kBSBV7gWbQwYzI1")
+                 ],[
                         InlineKeyboardButton('🎖Join our channel🎖', url=f'{TUTORIAL}')
                     ]
                     ]
