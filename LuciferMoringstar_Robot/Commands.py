@@ -86,7 +86,7 @@ async def start(bot, message):
                     [ 
                         InlineKeyboardButton('🏅Main Channel🏅 ', url="https://t.me/+2kBSBV7gWbQwYzI1")
                  ],[
-                        InlineKeyboardButton('🎖Join our channel🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🎖FILM UPDATER🎖', url=f'{TUTORIAL}')
                     ]
                     ]
                 await bot.send_cached_media(
