@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [ 
-                        InlineKeyboardButton('🏅Main Channel🏅 ', url="https://t.me/+2kBSBV7gWbQwYzI1")
+                        InlineKeyboardButton('🏅Main Channel🏅 ', url="https://t.me/+Eb5XW5ZeSkJhYjM1")
                  ],[
                         InlineKeyboardButton('🎖FILM UPDATER🎖', url=f'{TUTORIAL}')
                     ]
